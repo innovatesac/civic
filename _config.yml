@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap 4 Github Pages
-email: ""
+title: Sacramento Civic Innovation Challenge
+short_title: Civic Innovation Challenge
+email: "operations@innovatesac.org"
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  a co-creation process to increase Sacramento's civic innovation capacity
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+url: "https://civic.innovatesac.org/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: innovatesac
+github_username:  innovatesac
+author: City of Sacramento Office of Innovation & Economic Development
+logo: /assets/images/cic-sutl.png
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+repository: "innovatesac/civic"
 
 # Build settings
 plugins:

@@ -1,16 +1,9 @@
 
-# Boostrap 4 Github Pages
+# Sacramento Civic Innovation Challenge
 
-[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
+How can public agencies and the research community more effectively collaborate with community-based civic technology organizations to increase the region's civic innovation capacity and accelerate progress toward shared goals?
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
-
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
-
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
+The Sacramento Urban Technology Lab, a City of Sacramento initiative, is piloting a co-creation process to increase Sacramento's civic innovation capacity to accelerate progress toward the region's climate change goals.
 
 ## Contribution
 
